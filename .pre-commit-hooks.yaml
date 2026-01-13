@@ -1,0 +1,6 @@
+- id: forbid-binary
+  name: Forbid Binary Files
+  description: Forbid binary files that are not included in git lfs
+  entry: forbid-binary
+  language: python
+  types: ["binary"]
