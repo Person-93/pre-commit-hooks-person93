@@ -1,0 +1,3 @@
+# Use built-in patterns to generate smarter diff text.
+# http://urbanautomaton.com/blog/2011/07/28/git-grep-and-language-specific-diffs/
+*.py  diff=python
